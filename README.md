@@ -1,6 +1,6 @@
 # Parking-Lot-System   
   
-<img src="C:\Users\admin\Pictures\Screenshots\img1.png">
+<img src="Pictures\Screenshots\img1.png">
  
  
  
